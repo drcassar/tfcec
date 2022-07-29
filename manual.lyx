@@ -248,36 +248,128 @@ Pepe completa aqui
 Tópicos importantes:
 \end_layout
 
-\begin_layout Itemize
+\begin_layout Standard
 Espaços:
 \end_layout
 
 \begin_layout Itemize
+Texto
+\end_layout
+
+\begin_layout Standard
 Equações:
 \end_layout
 
 \begin_layout Itemize
-Imagens e tabelas:
+Texto
 \end_layout
 
 \begin_layout Standard
-Zani completa aqui
+Imagens:
 \end_layout
 
 \begin_layout Itemize
+Quanto à adição de imagens, uma boa prática e ponto de partida ao escrever
+ um artigo é a criação de um diretório para as imagens, de forma com que
+ o caminho das imagens (
+\begin_inset Quotes eld
+\end_inset
+
+imagens/imagem_1.npg
+\begin_inset Quotes erd
+\end_inset
+
+, por exemplo) dentro do documento seja sempre o mesmo, previnindo eventuais
+ conflitos;
+\end_layout
+
+\begin_layout Itemize
+Tendo essa estrutura em vista, para adicionar uma imagem, é possível seguir
+ o caminho dentro do LyX de 
+\begin_inset Quotes eld
+\end_inset
+
+Inserir
+\begin_inset Quotes erd
+\end_inset
+
+, seguido de 
+\begin_inset Quotes eld
+\end_inset
+
+Gráfico
+\begin_inset Quotes erd
+\end_inset
+
+ e, na janela de adição de gráficos, é possível não apenas adicionar o caminho
+ da imagem em si, mas também redimensioná-la e marcar a opção 
+\begin_inset Quotes eld
+\end_inset
+
+Scale on screen
+\begin_inset Quotes erd
+\end_inset
+
+, que pode ser bastante útil na configuração da imagem durante a escrita
+ do artigo, de forma a fazer com que ocupe menos espaço e possa auxiliar
+ o/a autor/autora na redação em si ao passo de que a figura não ocupe tanto
+ espaço em sua tela;
+\end_layout
+
+\begin_layout Itemize
+É ainda possível adicionar imagens acompanhadas de legendas por meio de
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Inserir float de figura
+\begin_inset Quotes erd
+\end_inset
+
+, em que uma caixa vermelha é criada onde a legenda pode ser escrita e a
+ imagem referenciada.
+ Note que existe uma vasta opção de configurações, tanto a posição do arquivo
+ que o float irá ficar, a quantidade de colunas que irá ocupar, e outros;
+\end_layout
+
+\begin_layout Standard
+Tabelas:
+\end_layout
+
+\begin_layout Itemize
+Texto
+\end_layout
+
+\begin_layout Standard
 Referência cruzada:
 \end_layout
 
 \begin_layout Itemize
+Texto
+\end_layout
+
+\begin_layout Standard
 Módulos:
 \end_layout
 
 \begin_layout Itemize
+Texto
+\end_layout
+
+\begin_layout Standard
 Layout:
 \end_layout
 
 \begin_layout Itemize
+Texto
+\end_layout
+
+\begin_layout Standard
 Fórmulas químicas:
+\end_layout
+
+\begin_layout Itemize
+Texto
 \end_layout
 
 \begin_layout Subsection
