@@ -446,5 +446,25 @@ Texto
 Overleaf:
 \end_layout
 
+\begin_layout Standard
+Outra ferramenta computacional importante é o Overleaf, que trata-se de
+ um editor web de texto que utiliza linguagem LaTeX para produção de documentos
+ científicos.
+ Um diferencial perceptível quando comparado ao LyX – anteriormente descrito
+ – é o fato de que o Overleaf permite um ambiente colaborativo simultâneo,
+ o que implica que vários autores podem editar e compilar o documento ao
+ mesmo tempo.
+ Embora seja necessário um conhecimento prévio em LaTeX para se produzir
+ documentos no Overleaf, já que este não trabalha com uma interface como
+ a do LyX, que permite a criação do documento de uma forma mais direta,
+ deve-se destacar sua facilidade para se encontrar alguns 
+\emph on
+layouts 
+\emph default
+de diversos tipos de documentos, de forma gratuita e acessível, tais como
+ modelos de artigos de diferentes revistas, modelos de teses, modelos de
+ livros, dentre outros.
+\end_layout
+
 \end_body
 \end_document
