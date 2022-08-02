@@ -76,11 +76,34 @@
 \begin_body
 
 \begin_layout Title
-Técnicas e Ferramentas Computacionais para Escrita Científica
+Manual de Técnicas e Ferramentas Computacionais para Escrita Científica
 \end_layout
 
 \begin_layout Author
 Alunos do curso ministrado por Daniel Cassar
+\end_layout
+
+\begin_layout Section
+Introdução
+\end_layout
+
+\begin_layout Standard
+Neste manual feito por nós, alunos do curso de férias de 
+\begin_inset Quotes eld
+\end_inset
+
+Técnicas e Ferramentas Computacionais para Escrita Científica
+\begin_inset Quotes erd
+\end_inset
+
+ da Ilum Escola de Ciência, pretendemos compartilhar nossos aprendizados
+ tornando-os acessíveis a todos com uma liguagem simples e direta.
+ Logo abaixo será possível encontrar seções introdutórias ao conhecimento
+ científico e, também, guias para o uso das ferramentas LyX, Zotero e uma
+ breve descrição do Overleaf.
+ Ademais, é válido ressaltar que todo este texto foi feito utilizando o
+ LyX de maneira compartilhada por meio de um repositório criado pelo professor
+ Daniel Cassar, o qual ministrou o curso, no GitHub.
 \end_layout
 
 \begin_layout Section*
