@@ -48,32 +48,3 @@ O método científico é o que se usa para se chegar a um resultado. Um exemplo 
 <br> Reportar as conclusões: não há ciência sem o reporte das conclusões! Afinal, como você vai fazer ciência sem falar do que você descobriu? Não faz sentido! É uma etapa importante para contar tudo o que você descobriu, onde você chegou com seu trabalho, se os pontos que você chegou refutam ou reforçam algum conceito, enfim, conte tudo e não esconda nada!
 </p>
 </details>
-
-## O que é um artigo?
-Uma vez um sábio professor, enquanto ministrava esse curso, disse: "Um bom artigo responde uma pergunta, mas faz outras dez!".
-<details><summary>Estruturas de um artigo.</summary>
-<p>
-Resumo.
-<br> Introdução.
-<br> Revisão bibliográfica.
-<br> Materiais e métodos.
-<br> Resultados.
-<br> Discussão.
-<br> Conclusão.
-<br> Agradecimentos.
-<br> Referências.
-</p>
-</details>
-
-## Ferramentas computacionais.
-<details><summary>LyX.</summary>
-<p>
-Espaços.
-<br> Equações.
-<br> Imagens e tabelas.
-<br> Referência cruzada.
-<br> Módulos.
-<br> Layout.
-<br> Fórmulas químicas.
-</p>
-</details>
