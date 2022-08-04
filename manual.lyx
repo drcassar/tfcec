@@ -374,7 +374,47 @@ Equações:
 \end_layout
 
 \begin_layout Itemize
-Texto
+Bom, sobre a parte das equações é necessario acessar a parte de inserir,
+ localizada no canto superior esquerdo do lyx e selecionar a opção matemática,
+ assim, podendo ter acesso a muitas opções, tais como: formula inline, formula
+ displayed, environment eqnarray, environment AMS align, environment AMS
+ alignat, environment AMS flalign, gather, multline, environment array,
+ environment cases, environment aligned, environment alignedAt, environment
+ gathered, environment split; além de delimitadores, matriz e macro.
+\end_layout
+
+\begin_layout Itemize
+Após selecionar a opção de fôrmula em alguma das já citadas anteriormente,
+ será possivel a adição de itens matemáticos para assim satisfazer a montagem
+ das equações.
+ Portanto, seguimos com um exemplo de formula inline, onde após selecionado
+ é possivel visualizar um campo azul na linha, esta que será o local de
+ escrita da equação, além disso é visivel uma barra de simbolos e operadores
+ matemáticos no canto inferior esquerdo.
+\end_layout
+
+\begin_layout Itemize
+Desse modo sendo possivel fazer contas, equações, adicionar simbolos, numeros
+ e letras entre outras como a seguir: 
+\begin_inset Formula $\sum\int\int\frac{34}{66}\boxdot\supsetneq\female_{p}+\sqrt{\int g(x^{2})}$
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Itemize
+Nessa perspectiva, sendo muito util para diversas áreas da ciência e da
+ matemática, além de ser esteticamente 
+\begin_inset Quotes eld
+\end_inset
+
+lindo
+\begin_inset Quotes erd
+\end_inset
+
+.
+ 
 \end_layout
 
 \begin_layout Standard
@@ -483,6 +523,54 @@ Fórmulas químicas:
 
 \begin_layout Itemize
 Texto
+\end_layout
+
+\begin_layout Standard
+Erro do caminho:
+\end_layout
+
+\begin_layout Standard
+Durante o uso do aplicativo é possivel se deparar com um erro, e ele é quando
+ selecionamos a opção de visualizar em forma de pdf.
+ 
+\end_layout
+
+\begin_layout Standard
+Após clicar nessa opção irá aparecer na tela do LyX um aviso com a seguinte
+ mensagem: 
+\begin_inset Quotes eld
+\end_inset
+
+O programa externo pdflatex terminou com um erro.
+ É recomendado corrigir a causa do erro (verifique os logs).
+\begin_inset Quotes erd
+\end_inset
+
+ Desse modo, como consequência não conseguindo visualizar o mesmo, entretanto,
+ para solucionar esse impasse é sugerido ao usuario que verifique o caminho
+ em que o arquivo, já salvo, se encontra em seus arquivos.
+ Assim, caso esteja dando esse erro, o motivo é possuir espaço no caminho
+ salvo, dessa maneira é indicado mudar a pasta em que o arquivo se encontra
+ para uma nova sem espaço.
+ 
+\end_layout
+
+\begin_layout Standard
+Portanto, solucionando essa problematica e ocasionando na visualização correta
+ já em formato de pdf.
+ 
+\end_layout
+
+\begin_layout Standard
+Obs: O nome 
+\begin_inset Quotes eld
+\end_inset
+
+Erro do caminho no LyX
+\begin_inset Quotes erd
+\end_inset
+
+ é apenas uma nomeclatura mais autoesplicativa para esse erro.
 \end_layout
 
 \begin_layout Subsection
