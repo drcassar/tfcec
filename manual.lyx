@@ -898,7 +898,43 @@ Layout:
 \end_layout
 
 \begin_layout Itemize
-Texto
+Um recurso importante para a edição e escrita de um bom documento é o seu
+ layout; a forma como o texto se dispõe no papel e sua formatação geral,
+ no LyX, podem ser facilmente alteradas nas configurações do documento.
+ Para acessar tais configurações, basta seguir o caminho clicando em 
+\begin_inset Quotes eld
+\end_inset
+
+Documento
+\begin_inset Quotes erd
+\end_inset
+
+ no canto superior da tela, e então em 
+\begin_inset Quotes eld
+\end_inset
+
+Configurações
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Itemize
+Para tornar o processo da formatação mais simples e rápido, existem também
+ as chamadas 
+\begin_inset Quotes eld
+\end_inset
+
+Classes de Documento
+\begin_inset Quotes erd
+\end_inset
+
+, que fornecem um conjunto de configurações pré-estabelecidas em LaTeX;
+ desde a fonte usada até o tamanho das margens da página.
+ Dentre as Classes de Documento pode-se encontrar a configuração para artigos,
+ cartas, livros ou mesmo slides que seguem normas técnicas exigidas para
+ determinadas revistas e jornais, sociedades e associações, etc.
 \end_layout
 
 \begin_layout Standard
@@ -914,7 +950,7 @@ Quanto à escrita de fórmulas químicas podemos utilizar um pacote para o
 \begin_inset Quotes eld
 \end_inset
 
-mchen.sty
+mchem.sty
 \begin_inset Quotes erd
 \end_inset
 
