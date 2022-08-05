@@ -236,11 +236,30 @@ Introdução;
 \end_layout
 
 \begin_layout Enumerate
-Revisão bibliográfica;
+Revisão bibliográfica: para a formação preliminar do conceito de um documento
+ científico, deve-se propor uma sucessão de raciocínios e, a partir dessa,
+ se questionar 
+\begin_inset Quotes eld
+\end_inset
+
+alguém já fez isso?
+\begin_inset Quotes erd
+\end_inset
+
+.
+ Cada vez mais há a necessidade de pesquisas (com assuntos vigentes) que
+ desencadeiem novas rotas de resolução de problemas, as quais não conferem
+ redundâncias nem repetições;
 \end_layout
 
 \begin_layout Enumerate
-Materiais e métodos;
+Materiais e métodos: tendo em vista que a reprodutibilidade de um artigo
+ científico é essencial, para haver a equidade do conhecimento dos pesquisadores
+, a formulação ética do desenrolar do desempenho técnico-prático é caracterizada
+ pela descrição dos materiais utilizados e, a partir destes, dos métodos
+ empregados.
+ Em ambos os casos, a compartibilidade do conteúdo tanto teórico quanto
+ prático é de suma importância;
 \end_layout
 
 \begin_layout Enumerate
@@ -343,6 +362,221 @@ adu, a partir disso escrevemos a nossa revisão bibliográfica, explicando
  no artigo.
  Portanto, são várias pessoas que participam da escrita do artigo e elas
  podem e devem ser reconhecidas como autoras também.
+\end_layout
+
+\begin_layout Section
+Citações
+\end_layout
+
+\begin_layout Standard
+As citações são um método de trazer credibilidade para o seu trabalho, além
+ de oferecer a possibilidade do leitor de verificar a veracidade dos fatos.
+ Você vai ver ao longo do tempo que cada periódico tem o seu estilo próprio
+ de citação, geralmente contendo as mesmas informações só que em ordem e
+ estilo diferente.
+\end_layout
+
+\begin_layout Subsection
+Razões para citar:
+\end_layout
+
+\begin_layout Standard
+A citação é uma relação entre quem cita e quem é citado, o autor que cita
+ tem algumas razões para citar como: 
+\end_layout
+
+\begin_layout Itemize
+Dar crédito a trabalhos relacionados; 
+\end_layout
+
+\begin_layout Itemize
+Oferecer uma leitura básica aos leitores;
+\end_layout
+
+\begin_layout Itemize
+Retificar o seu trabalho e o de outros; 
+\end_layout
+
+\begin_layout Itemize
+Sustentar declarações, analisar, contestar e debater as ideias de outros;
+ 
+\end_layout
+
+\begin_layout Itemize
+Informar aos pesquisadores de trabalhos futuros; 
+\end_layout
+
+\begin_layout Itemize
+Dar destaque a trabalhos pouco disseminados ou que foram pouco citados;
+ 
+\end_layout
+
+\begin_layout Itemize
+Identificar publicações originais nas quais uma ideia ou um conceito são
+ discutidos; 
+\end_layout
+
+\begin_layout Itemize
+Identificar publicações originais que descrevam conceitos ou termos.
+\end_layout
+
+\begin_layout Subsection
+Como citar?
+\end_layout
+
+\begin_layout Standard
+A citação depende de fatores como o tipo de citação utilizada pelo autor,
+ sendo indireta (epígrafe) ou direta, e da norma utilizada pela revista
+ a ser publicada.
+ Como apresentado nas razões para citar, pode ser utilizada corroborar com
+ o trabalho citado, contestá-lo ou apenas para sustentar suas declarações.
+ Utilizando a NBR 10520:2002 da ABNT (mais comum em trabalhos publicados
+ no Brasil), as citações apresentam o sobrenome do autor principal, acompanhado
+ do sobrenome dos coautores se houver, o ano da publicação, e, por fim,
+ as páginas de onde foi retirado a citação.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Exemplos:
+\end_layout
+
+\begin_layout Itemize
+Citação Direta: “A citação é uma relação entre quem cita e quem é citado,
+ o autor que cita tem algumas razões para citar.” (ANGHINONI; CORDOBA, 2022,
+ p.
+ 3-10) 
+\end_layout
+
+\begin_layout Itemize
+
+\shape italic
+Nota: O sobrenome do autor nesse caso é em maiúsculo pois ele não é apresentado
+ no texto.
+ 
+\end_layout
+
+\begin_layout Itemize
+Citação Direta 2: Segundo Anghinoni e Cordoba, “A citação é uma relação
+ entre quem cita e quem é citado, o autor que cita tem algumas razões para
+ citar” (2022, p.
+ 3-10) 
+\end_layout
+
+\begin_layout Itemize
+
+\shape italic
+Nota: Apenas a primeira letra em maiúsculo quando os autores são citados
+ dentro do texto.
+ 
+\end_layout
+
+\begin_layout Itemize
+Citação Direta 3: A citação depende de fatores como o tipo de citação utilizada
+ pelo autor, sendo indireta (epígrafe) ou direta, e da norma utilizada pela
+ revista a ser publicada.
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Quote
+
+\size small
+Utilizando a NBR 10520:2002 da ABNT (mais comum em trabalhos publicados
+ no Brasil), as citações apresentam o sobrenome do autor principal, acompanhado
+ do sobrenome dos coautores se houver, o ano da publicação, e, por fim,
+ as páginas de onde foi retirado a citação.
+ (ANGHINONI; CORDOBA, 2022, p.
+ 3-10).
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\shape italic
+Nota: Citação com mais de 3 linhas deve ser recuada com fonte menor a esquerda.
+ 
+\end_layout
+
+\begin_layout Itemize
+Citação Indireta: As citações diretas devem apresentar aspas se forem com
+ menos de 3 linhas, e com mais de 3 linhas devem ser recuadas e apresentadas
+ fora do texto.
+ Já as citações indiretas devem ser acompanhadas no texto.
+ (ANGHINONI; CORDOBA, 2022) 
+\end_layout
+
+\begin_layout Itemize
+
+\shape italic
+Nota: epígrafes não apresentam as páginas.
+ 
+\end_layout
+
+\begin_layout Subsection
+Tipos de citação
+\end_layout
+
+\begin_layout Standard
+Saiba que você pode citar qualquer coisa, desde que seja relevante para
+ o seu trabalho e faça sentido.
+ Para cada material utilizado, há uma especificidade sobre como realizar
+ a citação, vale ressaltar que cada periódico também tem seu estilo e é
+ uma boa (e essencial) prática verificar as regras de escrita para onde
+ você for submeter seu trabalho.
+ Mas, em resumo, você poderá citar: filmes, livros, músicas, sites, obras,
+ artigos, teses, monografias, slides...
+ vê? Praticamente tudo!
+\end_layout
+
+\begin_layout Standard
+De acordo com a norma ABNT 10520-2022 (está vendo? Isso é uma citação!),
+ existem algumas definições:
+\end_layout
+
+\begin_layout Itemize
+Citações: Menção de uma informação extraída de outra fonte;
+\end_layout
+
+\begin_layout Itemize
+Citação de citação: Citação direta ou indireta de um texto em que não se
+ teve acesso ao original;
+\end_layout
+
+\begin_layout Itemize
+Citação direta: Transcrição textual de parte da obra do autor consultado;
+\end_layout
+
+\begin_layout Itemize
+Citação indireta: Texto baseado na obra do autor consultado;
+\end_layout
+
+\begin_layout Itemize
+Notas de referência: Notas que indicam fontes consultadas ou remetem a outras
+ partes da obra onde o assunto foi abordado;
+\end_layout
+
+\begin_layout Itemize
+Notas de rodapé: indicações, observações ou aditamentos ao texto feitos
+ pelo autor, tradutor ou editor, podendo também aparecer na margem esquerda
+ ou direita da mancha gráfica;
+\end_layout
+
+\begin_layout Itemize
+Notas explicativas: Notas usadas para comentários, esclarecimentos ou explanaçõe
+s, que não possam ser incluídos no texto.
+\end_layout
+
+\begin_layout Standard
+Se você quiser aprender um pouco mais, existem algumas abreviações em latim
+ que você pode pesquisar, como: 
+\shape italic
+apud, et.al., cf, id., ibid, op.
+ cit., passim, loc.
+ cit.
+ 
 \end_layout
 
 \begin_layout Section
