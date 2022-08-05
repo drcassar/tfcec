@@ -5,6 +5,9 @@
 \save_transient_properties true
 \origin unavailable
 \textclass article
+\begin_preamble
+\usepackage [version=4] {mchem}
+\end_preamble
 \use_default_options true
 \maintain_unincluded_children false
 \language english
@@ -29,6 +32,7 @@
 \bibtex_command default
 \index_command default
 \paperfontsize default
+\spacing single
 \use_hyperref false
 \papersize default
 \use_geometry false
@@ -44,6 +48,7 @@
 \use_package undertilde 1
 \cite_engine basic
 \cite_engine_type default
+\biblio_style plain
 \use_bibtopic false
 \use_indices false
 \paperorientation portrait
@@ -812,11 +817,20 @@ Fórmulas químicas:
 \end_layout
 
 \begin_layout Itemize
-Quanto à escrita de fórmulas químicas podemos baixar um pacote para o LyX
- chamado mhchem que fará com que sejam escritas de uma forma visualmente
+Quanto à escrita de fórmulas químicas podemos utilizar um pacote para o
+ LyX chamado mhchem que fará com que sejam exibidas de uma forma visualmente
  mais atraente.
- Para baixar esse pacote é preciso primeiramente dentro do LyX seguir o
- seguinte caminho: “document”, “settings” , “LaTeX Preamble”.
+ Para utilizar esse pacote é preciso primeiramente ter baixado em seu computador
+ o arquivo 
+\begin_inset Quotes eld
+\end_inset
+
+mchen.sty
+\begin_inset Quotes erd
+\end_inset
+
+, depois dentro do LyX deve-se seguir o seguinte caminho: “document”, “settings”
+ , “LaTeX Preamble”.
  Então, dentro do LaTeX Preamble (ambiente em que podem ser criadas funções,
  ajustadas configurações e carregados pacotes de definições não nativos
  do LaTeX) é preciso digitar o comando ''
@@ -840,7 +854,8 @@ literal "false"
 
 \end_inset
 
-
+.
+ 
 \end_layout
 
 \begin_layout Standard
