@@ -1019,5 +1019,671 @@ de diversos tipos de documentos, de forma gratuita e acessível, tais como
  livros, dentre outros.
 \end_layout
 
+\begin_layout Section
+Ferramentas de pesquisa
+\end_layout
+
+\begin_layout Standard
+Após tudo isso que já foi explicado, deve ter ficado claro o quão importante
+ é o conhecimento sobre a escrita científica.
+ Mas, devemos nos atentar também para a relevância que tem o conhecimento
+ sobre como realizar pesquisas desses escritos de carácter científico.
+ Esse ato de pesquisar e realizar buscas deve ser feito com muita cautela,
+ a fim de se obter o melhor (mais adequado) resultado possível, ou seja,
+ encontrar o que realmente corresponde ao que você procura.
+ Para isso, existem ferramentas de pesquisa, como plataformas de busca com
+ opções de refinamento e determinadas ferramentas facilitadores, as quais
+ podemos utilizar para conseguirmos encontrar, por exemplo, artigos de nosso
+ interesse.
+\end_layout
+
+\begin_layout Standard
+Neste manual, vamos tratar sobre duas ferramentas em especial, Google Scholar
+ e Web of Science:
+\end_layout
+
+\begin_layout Subsection
+Google Scholar
+\end_layout
+
+\begin_layout Standard
+O Google Scholar ou Google Acadêmico é uma ferramenta de pesquisa de artigos
+ científicos, armazenados como metadados, a partir da qual, utilizando mecanismo
+s corretos e adequados à situação, podemos encontrar o que desejamos.
+ Para utilizá-lo, há algumas técnicas de pesquisa avançada.
+ Nas imagens abaixo, vamos identificar o local apropriado para cada mecanismo
+ e, logo depois, detalharemos a funcionalidade de cada um deles.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Google Scholar.PNG
+	lyxscale 50
+	width 100text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "Figura 1"
+
+\end_inset
+
+Tela inicial do Google Scholar, com destaques em vermelho de acordo com
+ que foi explicado.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Na Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Figura 1"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+, podemos ver como é a tela inicial e na barra centralizada podemos escrever
+ o que queremos buscar.
+ Mas, para aprimorarmos o modo que pesquisamos e melhorarmos nossos achados,
+ podemos utilizar da parte 
+\begin_inset Quotes eld
+\end_inset
+
+pesquisa avançada
+\begin_inset Quotes erd
+\end_inset
+
+/ 
+\begin_inset Quotes eld
+\end_inset
+
+advanced search
+\begin_inset Quotes erd
+\end_inset
+
+, a qual é possível acessar clicando nas três linhas localizadas no canto
+ superior esquerdo da tela e no seu próprio ícone de acesso com o devido
+ nome.
+\end_layout
+
+\begin_layout Standard
+Após abrir suas opções, visualizaremos as seguites possibilidades, mostradas
+ na Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Figura 2"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Google Scholar - Advanced Search.PNG
+	lyxscale 50
+	width 100text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "Figura 2"
+
+\end_inset
+
+Possibilidades permitidas utilizando a parte de pesquisa avançada.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Com tudo isso a nosso dispor, podemos: 
+\end_layout
+
+\begin_layout Itemize
+Indicar palavras, as quais os artigos devem contemplar todas; 
+\end_layout
+
+\begin_layout Itemize
+Indicar uma frase exata que queremos encontrar nos artigos; 
+\end_layout
+
+\begin_layout Itemize
+Fornecer palavras, as quais, pelo menos uma, os artigos devem conter; 
+\end_layout
+
+\begin_layout Itemize
+Fornecer palavras que não queremos que tenha nos artigos; 
+\end_layout
+
+\begin_layout Itemize
+Escolher o local que essas palavras/frases aparecem (qualquer local dos
+ artigos ou nos títulos deles); 
+\end_layout
+
+\begin_layout Itemize
+Especificar o autor ou autores que queremos que tenham escrito os artigos;
+ 
+\end_layout
+
+\begin_layout Itemize
+Determinar a revista que desejamos que os artigos a nos serem mostrados
+ tenham sido publicados; 
+\end_layout
+
+\begin_layout Itemize
+Determinar um intervalo de tempo que desejamos que os artigos resultantes
+ da busca tenham sido publicados;
+\end_layout
+
+\begin_layout Itemize
+E determinar um intervalo de tempo que desejamos que os artigos tenham sido
+ escritos.
+\end_layout
+
+\begin_layout Standard
+Desse modo, com tudo isso, podemos ir afunilando nossa pesquisa e poderemos
+ alcançar, adequadamente, resultados esperados.
+\end_layout
+
+\begin_layout Standard
+Além disso, outro mecanismo, o qual está relacionado com o aplicativo Zotero,
+ comentado anteriormente, que podemos utilizar no Google Scholar é um que
+ nos permite selecionar vários artigos de uma só vez e lançarmos, automaticament
+e, nessa mesma plataforma, os dados sobre ele, para salvar como nosso repertório
+ em nossa biblioteca.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Google Scholar - Zotero Connector.PNG
+	lyxscale 50
+	width 100text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Caixa de seleção com uso do Zotero Connector.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+A fim de utilizá-lo, devemos:
+\end_layout
+
+\begin_layout Enumerate
+Caso não esteja instalada, baixar a extensão do Zotero no navegador que
+ utilizamos (para isso, basta procurar no navegador por 
+\begin_inset Quotes eld
+\end_inset
+
+Zotero extensão
+\begin_inset Quotes erd
+\end_inset
+
+, acessar 
+\begin_inset Quotes eld
+\end_inset
+
+Zotero Connector
+\begin_inset Quotes erd
+\end_inset
+
+ e instalá-la);
+\end_layout
+
+\begin_layout Enumerate
+Deixá-la fixa na nossa barra superior (clicar no símbolo de peça de quebra-cabeç
+a da barra superior (caso estejamos usando o Google Chrome, ou então, acessar
+ o local refente às extensões) e, em seguida, no pino em frente de 
+\begin_inset Quotes eld
+\end_inset
+
+Zotero Connector
+\begin_inset Quotes erd
+\end_inset
+
+);
+\end_layout
+
+\begin_layout Enumerate
+Acessar a página do Google Scholar, na qual realizamos a busca de artigos;
+\end_layout
+
+\begin_layout Enumerate
+Clicar, como é a primeira vez utilizando-a, no ícone em formato de Z da
+ extenção (passo que não nos é mostrado nenhuma mudança);
+\end_layout
+
+\begin_layout Enumerate
+Concordar com o aviso que aparece informando que a extensão foi instalada;
+\end_layout
+
+\begin_layout Enumerate
+Clicar novamente no ícone, o que fará com que o Z mude para algo que represente
+ o que estamos fazendo (exemplo: se for artigo, aparecerá um artigo pequenininho
+ como ilustração; se for essa seleção de múltiplos artigos, aparecerá uma
+ pastinha de documentos amarela);
+\end_layout
+
+\begin_layout Enumerate
+Selecionar, na tela que será mostrada, todos os artigos que desejamos salvar,
+ clicando na caixinha de seleção e dando 
+\begin_inset Quotes eld
+\end_inset
+
+OK
+\begin_inset Quotes erd
+\end_inset
+
+ (dica: caso seja de nosso interesse selecionar/deselecionar todos, há a
+ opção 
+\begin_inset Quotes eld
+\end_inset
+
+Select All
+\begin_inset Quotes erd
+\end_inset
+
+ e 
+\begin_inset Quotes eld
+\end_inset
+
+Deselect All
+\begin_inset Quotes erd
+\end_inset
+
+);
+\end_layout
+
+\begin_layout Standard
+E pronto! Os artigos que marcamos estarão lá no Zotero e alguns podem até
+ mesmo ter o pdf salvo por lá mesmo.
+\end_layout
+
+\begin_layout Standard
+Como uma informação adicional, podemos ver que, no lado esquerdo, há opções
+ de filtros para os artigos que nos está sendo mostrado e eles podem nos
+ ajudar a encontrar o que realmente queremos.
+\end_layout
+
+\begin_layout Subsection
+Web of Science
+\end_layout
+
+\begin_layout Standard
+Uma outra possibilidade de fazermos essa busca é utilizando a base de dados
+ Web of Science, a qual podemos acessar pela página/portal do Periódicos
+ CAPES (passo a passo: acessar essa referida página, ir em 
+\begin_inset Quotes eld
+\end_inset
+
+Acervo
+\begin_inset Quotes erd
+\end_inset
+
+, 
+\begin_inset Quotes eld
+\end_inset
+
+Lista de bases
+\begin_inset Quotes erd
+\end_inset
+
+, buscar por 
+\begin_inset Quotes eld
+\end_inset
+
+Web of Science
+\begin_inset Quotes erd
+\end_inset
+
+ e selecionar a opção 
+\begin_inset Quotes eld
+\end_inset
+
+Web of Science - Coleção Principal (Clarivate Analytics)
+\begin_inset Quotes erd
+\end_inset
+
+).
+ Cabe relembrar que devemos estar conectados a uma rede que nos permite
+ ter acesso a essa plataforma, como a conexão da nossa instituição de ensino.
+ Nessa base de dados, não podemos selecionar vários artigos de uma vez só,
+ mas individualmente a técnica que seleciona como repertório funciona e
+ também têm diversas opções de ferramentas de pesquisa avançada.
+ Uma observação que vale ser feita é que essa técnica de selecionar vários
+ de uma só vez é recomendada somente caso queiramos ler e nos atualizar
+ sobre o que vem acontecendo nos últimos tempos na área de interesse, já
+ que, para pesquisas em específico, é sempre bom termos uma boa noção do
+ artigo que estamos pegando para nossa bibliografia e buscarmos saber um
+ pouco mais sobre ele do que apenas o que nos é mostrado antes de acessá-los.
+ 
+\end_layout
+
+\begin_layout Standard
+Assim, nas imagens abaixo, serão mostradas algumas das possibilidades de
+ pesquisa avançada que podemos utilizar a nosso favor.
+\end_layout
+
+\begin_layout Standard
+Logo que acessamos essa página, e estando na parte de pesquisa de documentos,
+ nos é possibilitado que escolhamos os campos/o tipo da informação que vamos
+ fornecer para se realizar a busca (ou podemos deixar habilitado para considerar
+ todas as categorias possíveis) e, desse modo, há uma barra para escrevermos
+ essa informação.
+ Ainda nessa parte, podemos adicionar um intervalo de tempo, para restringirmos
+ os artigos que nos vai ser retornado para aqueles que foram publicados
+ nesse respectivo intervalo ou que foram indexados na base de dados no respectiv
+o período indicado, e, também, adicionar uma linha, em outras palavras,
+ outra característica do artigo bem como a primeira que preenchemos, nos
+ possibilitando acrescer mais especificações para a busca.
+ Um detalhe é que nessa linha que adicionamos, tem uma caixa de seleção
+ de preposições para determinar como a informação nova que adicionamos será
+ leva em consideração.
+ Dessa forma, se for escolhido 
+\begin_inset Quotes eld
+\end_inset
+
+And
+\begin_inset Quotes erd
+\end_inset
+
+, os artigos mostrados respeitarão a primeira condição que nós queremos
+ que ele possua e a segunda, obrigatoriamente, também; caso seja colocado
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Or
+\begin_inset Quotes erd
+\end_inset
+
+, aparecerão artigos que podem ou ter a primeira característica ou a segunda
+ ou, então, as duas (pelo menos uma delas ele vai ter, com certeza); e se
+ for selecionado 
+\begin_inset Quotes eld
+\end_inset
+
+Not
+\begin_inset Quotes erd
+\end_inset
+
+, podemos indicar o que não queremos que o artigo tenha.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Web of Science - tela principal.PNG
+	lyxscale 50
+	width 100text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Tela inicial do Web of Science
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Web of Science - tela principal com itens adicionados.PNG
+	lyxscale 50
+	width 100text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Campos disponíveis para preenchimento após adicionar linha e intervalo de
+ data.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Se tratando da pesquisa avançada, a qual nós podemos abrir as opções clicando
+ no respectivo ícone na parte inferior desses campos preenchidos, há várias
+ possibilidades para nos auxiliar a melhorar nossa pesquisa.
+ Explicando cada uma delas, temos:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Web of Science - pesquisa avançada.PNG
+	lyxscale 50
+	width 100text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Pesquisa avançada do Web of Science.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Campo pra preenchimento de alguma informação pela qual queremos buscar os
+ artigos;
+\end_layout
+
+\begin_layout Itemize
+Caso cliquemos em 
+\begin_inset Quotes eld
+\end_inset
+
+Mais opções
+\begin_inset Quotes erd
+\end_inset
+
+, há um botão para ativar a pesquisa exata do que colocamos no campo acima;
+\end_layout
+
+\begin_layout Itemize
+Uma caixinha para escrever nossa busca, sendo que aqui podemos utilizar
+ operadores booleanos (AND, OR, NOT) e rótulos/abreviações para determinar
+ o campo/tipo da sua informação;
+\end_layout
+
+\begin_layout Itemize
+Além da opção que nos possibilita inserir um intervalo de datas, tanto de
+ publicação que queremos dos artigos quanto de indexação na plataforma;
+\end_layout
+
+\begin_layout Itemize
+E uma caixinha para poder ativar a combinação de resultados, a qual leva
+ em consideração nossas pesquisas anteriores.
+\end_layout
+
+\begin_layout Standard
+Após seguir esses passos e realizarmos nossa pesquisa, ainda há como aprimorar
+ nossos resultados, caso relembremos de algo, com a parte de pesquisa avançada
+ após já ter feito uma busca com o que se desejava.
+ Basta clicar na barra de pesquisa que as mesmas opções do que foi explicado
+ sobre o início aparecem.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Web of Science - busca.PNG
+	lyxscale 50
+	width 100text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Visualização após busca.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Além disso, na barra lateral localizada no lado esquerdo, há os filtros,
+ com os quais pode-se escolher o modo de artigo que se quer acessar, autores,
+ anos de publicação, tipo de documento, categorias, afiliações, títulos
+ da publicação, editoras, agência financiadoras, entre diversos outros.
+\end_layout
+
+\begin_layout Standard
+Por fim, vale pontuar que o Web of Science é uma plataforma muito legal
+ de se usar para buscas, já que apresenta opção de analisar os resultados,
+ gerar gráficos, planilhas, tabelas, diagramas, exportá-los, entre muitas
+ outras opções.
+\end_layout
+
 \end_body
 \end_document
