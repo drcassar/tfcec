@@ -490,15 +490,71 @@ Tabelas:
 \end_layout
 
 \begin_layout Itemize
-Texto
+Para criar uma tabela e legendá-la no seu documento é necessário seguir
+ alguns passos:
 \end_layout
 
+\begin_deeper
+\begin_layout Standard
+1)Insira um float de tabela.
+ (16º obejto da segunda linha, da esquerda para a direta, na área superior
+ da página)
+\end_layout
+
+\begin_layout Standard
+2)Adicione a sua tabela e a selecione para legendá-la.
+ (No 19º objeto da primeira linha você consegue adicionar a sua tabela.)
+\end_layout
+
+\begin_layout Standard
+3)Clique em 
+\begin_inset Quotes eld
+\end_inset
+
+Inserir etiqueta
+\begin_inset Quotes erd
+\end_inset
+
+ (17º objeto da segunda linha) e escolha o nome que você quer dar para a
+ tabela.
+\end_layout
+
+\end_deeper
 \begin_layout Standard
 Referência cruzada:
 \end_layout
 
 \begin_layout Itemize
-Texto
+Ao decorrer do seu documeto é bem provável que você vai precisar referenciar
+ uma imagem ou uma tabela para explicar um conceito.
+ Mas como fazer? Na parte superior da sua página, clique no 18º ícone da
+ esquerda para a direita em 
+\begin_inset Quotes eld
+\end_inset
+
+Inserir referência cruzada
+\begin_inset Quotes erd
+\end_inset
+
+ e escolha o anexo que deseja referenciar.
+ Uma aba será aberta e na opção 
+\begin_inset Quotes eld
+\end_inset
+
+Formato de referência
+\begin_inset Quotes erd
+\end_inset
+
+ você pode escolher como a sua referência deve aparecer no seu texto.
+ Para finalizar essa etapa é só clicar em 
+\begin_inset Quotes eld
+\end_inset
+
+ok
+\begin_inset Quotes erd
+\end_inset
+
+ na parte inferior.
 \end_layout
 
 \begin_layout Standard
