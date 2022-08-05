@@ -812,7 +812,35 @@ Fórmulas químicas:
 \end_layout
 
 \begin_layout Itemize
-Texto
+Quanto à escrita de fórmulas químicas podemos baixar um pacote para o LyX
+ chamado mhchem que fará com que sejam escritas de uma forma visualmente
+ mais atraente.
+ Para baixar esse pacote é preciso primeiramente dentro do LyX seguir o
+ seguinte caminho: “document”, “settings” , “LaTeX Preamble”.
+ Então, dentro do LaTeX Preamble (ambiente em que podem ser criadas funções,
+ ajustadas configurações e carregados pacotes de definições não nativos
+ do LaTeX) é preciso digitar o comando ''
+\backslash
+usepackage [version=4] {mchem}”.
+ Agora para escrever as equações será preciso digitá-las como código de
+ LaTeX(já que se trata de um pacote externo) o que pode ser feito apertando
+ o botão TEX encontrado na parte direita da barra superior que aparece no
+ LyX.
+ Então, para escrever a fórmula do dióxido de silício, por exemplo, deve-se
+ digitar o comando no seguinte padrão “
+\backslash
+ce{SiO2}”.
+ Para outras operações é possível consultar como realizá-las no seguinte
+ 
+\begin_inset CommandInset href
+LatexCommand href
+name "link"
+target "https://docs.moodle.org/400/en/Chemistry_notation_using_mhchem"
+literal "false"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
