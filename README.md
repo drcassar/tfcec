@@ -27,4 +27,4 @@ A formação do conhecimento científico;
 <br>Ferramentas de pesquisa.
 
 ### Autores
-Gustavo Duarte Verçosa, Barbara da P. Perez Rodrigues, Pedro Henrique Sophia, Pedro Henrique M. Zanineli, Eduarda Veiga Carvalho, Shaian José Anghinoni, Paola Ferrari, Isabela Bento Beneti, Ygor Fagundes Ruas, Raphaella Tamyres S. Gonçalves, Guilherme G. Dariani, Sarah P. Rodrigues Freire, Luiz Henrique da S. Cordoba, Vitória Yumi Uetuki Nicoleti, Alice Vitti Kageyama Ferreira, Arthur Hosoi Kimura.
+Gustavo Duarte Verçosa, Barbara da P. Perez Rodrigues, Pedro Henrique Sophia, Pedro Henrique M. Zanineli, Eduarda Veiga Carvalho, Shaian José Anghinoni, Paola Ferrari, Isabela Bento Beneti, Ygor Fagundes Ruas, Raphaella Tamyres S. Gonçalves, Guilherme G. Dariani, Sarah P. Rodrigues Freire, Luiz Henrique da S. Cordoba, Vitória Yumi Uetuki Nicoleti, Alice Vitti Kageyama Ferreira, Artur Hosoi Kimura.
