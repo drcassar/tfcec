@@ -455,6 +455,32 @@ A conclusão de um artigo pode muitas vezes gerar confusões, já que é um
 \end_layout
 
 \end_deeper
+\begin_layout Subsubsection
+Agradecimentos:
+\end_layout
+
+\begin_layout Itemize
+A importância dos agradecimentos vem de homenagear os envolvidos que não
+ necessariamente seriam de suma importância para a existência do artigo(este
+ seria um caso de co-autoria sobre o artigo), mas aqueles que prestaram
+ seus devidos esforços intelectuais de maneira a fornecer mais propriedades
+ ao mesmo devem e merecem estar aqui.
+ Nos agradecimentos o autor deve deixar claro também aqueles que contribuíram
+ financeiramente para o desenvolvimento do artigo como: os investidores,
+ bolsas ou equipamentos prestados.
+\end_layout
+
+\begin_layout Itemize
+A participação de um indivíduo em um artigo para se tornar relevante o suficient
+e de forma a entrar nos agradecimentos vai depender muito mais do autor
+ do que parece, entretanto, isso não impede do autor ser instruído a realizar
+ uma série de processos seletivos.
+ Além de prestar gratidão, pense na sessão de agradecimentos como um subtópico
+ para possíveis indicações de pessoas ou entidades institucionais que o
+ ajudaram durante o artigo.
+ 
+\end_layout
+
 \begin_layout Section
 Citações
 \end_layout
@@ -1377,6 +1403,10 @@ literal "false"
 
 \begin_layout Standard
 Atalhos importantes:
+\begin_inset space ~
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -1743,7 +1773,7 @@ Criar Raiz quadrada
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
-Atalhos
+Atalhos.
 \end_layout
 
 \end_inset
@@ -1870,7 +1900,7 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename Google Scholar.PNG
+	filename Imagens/Google Scholar.PNG
 	lyxscale 50
 	width 100text%
 
@@ -1962,7 +1992,7 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename Google Scholar - Advanced Search.PNG
+	filename Imagens/Google Scholar - Advanced Search.PNG
 	lyxscale 50
 	width 100text%
 
@@ -2060,7 +2090,7 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename Google Scholar - Zotero Connector.PNG
+	filename Imagens/Google Scholar - Zotero Connector.PNG
 	lyxscale 50
 	width 100text%
 
@@ -2299,7 +2329,7 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename Web of Science - tela principal.PNG
+	filename Imagens/Web of Science - tela principal.PNG
 	lyxscale 50
 	width 100text%
 
@@ -2312,7 +2342,7 @@ status open
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
-Tela inicial do Web of Science
+Tela inicial do Web of Science.
 \end_layout
 
 \end_inset
@@ -2333,7 +2363,7 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename Web of Science - tela principal com itens adicionados.PNG
+	filename Imagens/Web of Science - tela principal com itens adicionados.PNG
 	lyxscale 50
 	width 100text%
 
@@ -2375,7 +2405,7 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename Web of Science - pesquisa avançada.PNG
+	filename Imagens/Web of Science - pesquisa avançada.PNG
 	lyxscale 50
 	width 100text%
 
@@ -2450,7 +2480,7 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename Web of Science - busca.PNG
+	filename Imagens/Web of Science - busca.PNG
 	lyxscale 50
 	width 100text%
 
