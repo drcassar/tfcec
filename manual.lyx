@@ -605,7 +605,34 @@ Espaços:
 \end_layout
 
 \begin_layout Itemize
-Texto
+No LyX é possível inserirmos diversos tipos de espaços para acessá-los basta
+ seguir o caminho: 
+\begin_inset Quotes eld
+\end_inset
+
+inserir
+\begin_inset Quotes erd
+\end_inset
+
+, 
+\begin_inset Quotes eld
+\end_inset
+
+formatação
+\begin_inset Quotes erd
+\end_inset
+
+.
+ Lá é possível encontrar o espaço protegido, espaço entre-palavras, espaço
+ fino, espaço horizontal e espaço vertical.
+ Dentre esses o mais interessante é o espaço protegido, com essa ferramenta
+ é possível fazer com que duas palavras diferentes sejam exibidas na mesma
+ linha mesmo que seja necessária uma quebra de linha, ou seja, ao inserir
+ um espaço protegido entre 2 palavras obrigamos o LyX a não exibi-las de
+ modo separado.
+ Isso pode ser feito simplesmente colocando o seu cursor onde você deseja
+ adicionar o espaço e seguir o caminho citado anteriormente clicando no
+ final em espaço protegido.
 \end_layout
 
 \begin_layout Standard
