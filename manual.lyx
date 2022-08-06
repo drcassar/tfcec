@@ -682,7 +682,10 @@ LyX:
 \end_layout
 
 \begin_layout Standard
-Pepe completa aqui
+O LyX é uma plataforma editora de documentos utilizando LaTeX.
+ O intuito do LyX é fazer com que o usuário apenas se preocupe com o conteúdo
+ do texto, e não com a linguagem, muitad vezes complicada, que um documento
+ em LaTeX geralmente demanda.
 \end_layout
 
 \begin_layout Subsubsection
