@@ -7,7 +7,7 @@
 \textclass article
 \use_default_options true
 \maintain_unincluded_children false
-\language english
+\language brazilian
 \language_package default
 \inputencoding auto
 \fontencoding global
@@ -77,12 +77,58 @@
 
 \begin_body
 
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Comentários gerais:
+\end_layout
+
+\begin_layout Itemize
+Gostei bastante do resultado final.
+ Meus parabéns! 
+\end_layout
+
+\begin_layout Itemize
+Fiz comentários em LyX durante o texto para quem quiser um feedback.
+\end_layout
+
+\begin_layout Itemize
+Senti falta de uma seção sobre o Zotero como um software.
+ Tem a seção sobre como usar a extensão para navegadores, mas não tem nada
+ sobre o software Zotero em si.
+\end_layout
+
+\begin_layout Itemize
+O texto foi claramente escrito por diversas pessoas.
+ Seria interessante (para uma próxima) termos também a função de editor
+ e revisor de texto.
+ 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Title
 Manual de Técnicas e Ferramentas Computacionais para Escrita Científica
 \end_layout
 
 \begin_layout Author
 Alunos do curso ministrado por Daniel Cassar
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Seria interessante colocar o nome de todos que participaram, quem sabe ordenado
+ por ordem alfabética do sobrenome.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section
@@ -106,10 +152,33 @@ Técnicas e Ferramentas Computacionais para Escrita Científica
  Ademais, é válido ressaltar que todo este texto foi feito utilizando o
  LyX de maneira compartilhada por meio de um repositório criado pelo professor
  Daniel Cassar, o qual ministrou o curso, no GitHub.
+ 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Adorei o uso de primeira pessoa aqui, deixou o texto bem convidativo logo
+ no início! Ficou uma introdução curta e direto ao ponto, muito bom!
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section*
 Formação do conhecimento científico.
+ 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Não entendi porque essa seção está sem texto e sem numeração.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section
@@ -138,6 +207,7 @@ ciência
  adimite mais de um significado, podendo se referir tanto ao método sistematizad
 o pelo qual se chega ao conhecimento científico quanto ao próprio conhecimento
  obtido através desse método.
+ 
 \end_layout
 
 \begin_layout Section
@@ -151,6 +221,19 @@ O método científico é o que usa-se para se chegar a um resultado.
  você precisa de alguns passos para chegar ao resultado desejado! Todo as
  etapas que você realizar, do começo ao fim, grandes ou pequenas, fazem
  parte do método científico.
+ 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Cuidado com expressões muito gerais como essa.
+ Se eu der três pulinhos durante uma análise de AFM foi uma etapa que eu
+ fiz durante o processo, mas eu não diria que fez parte do método científico.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -186,7 +269,34 @@ Hipótese:
  pesquisa bibliográfica) formula-se uma hipótese, que é um passo muito important
 e.
  A hipótese deve ser necessariamente falsificável, posteriormente você provará
- se ela está equivocada ou correta, reforçando ou reformulando-a;
+ se ela está equivocada ou correta, reforçando ou reformulando-a; 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Aqui precisa corrigir.
+ Nós não provamos que algo está correto quando fazemos ciência.
+ Os experimentos realizados irão suportar ou refutar a hipótese, mas vejam
+ que isso é bastante diferente de afirmar que ela está correta!
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Aqui faltou a parte do teste experimental, isso vem antes da análise de
+ resultados
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Itemize
@@ -213,7 +323,17 @@ Reportar as conclusões:
  ciência sem falar do que você descobriu? Não faz sentido! É uma etapa important
 e para contar tudo o que você descobriu, aonde você chegou com seu trabalho,
  se os pontos que você chegou refutam ou reforçam algum conceito, enfim,
- conte tudo e não esconda nada!
+ conte tudo e não esconda nada! 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+S2
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section
@@ -223,10 +343,37 @@ O que é um artigo?
 \begin_layout Standard
 Uma vez um sábio professor, enquanto ministrava esse curso, disse: "Um bom
  artigo responde uma pergunta, mas faz outras dez!".
+ 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Este professor estava certamente reproduzindo o conhecimento que foi passado
+ a ele por toda uma cadeia de professores do passado :) afinal, se vemos
+ mais longe é porque estamos sobre o ombro de gigantes!
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsection
-Estrutura de um artigo:
+Estrutura de um artigo
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Aqui senti falta de uma breve descrição de todas as partes do artigo, mas
+ só tem uma descrição para revisão bibliográfica e materiais e métodos
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Enumerate
@@ -251,7 +398,22 @@ alguém já fez isso?
 .
  Cada vez mais há a necessidade de pesquisas (com assuntos vigentes) que
  desencadeiem novas rotas de resolução de problemas, as quais não conferem
- redundâncias nem repetições;
+ redundâncias nem repetições; 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+A ciência permite e incentiva repetições! Retestar uma hipótese é sempre
+ uma tarefa válida, afinal queremos ter segurança quando usamos um conhecimento
+ científico.
+ O problema aqui é outro: muitas revistas científicas dão atenção desproporciona
+l a conhecimento original em relação a um reteste de uma hipótese, por conta
+ disso, o incentivo para se testar uma hipótese nova é maior.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Enumerate
@@ -261,7 +423,18 @@ Materiais e métodos: tendo em vista que a reprodutibilidade de um artigo
  pela descrição dos materiais utilizados e, a partir destes, dos métodos
  empregados.
  Em ambos os casos, a compartibilidade do conteúdo tanto teórico quanto
- prático é de suma importância;
+ prático é de suma importância; 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+eu particularmente prefiro frases mais curtas com palavras mais simples
+ e mais acessíveis.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Enumerate
@@ -338,9 +511,10 @@ resultados e discussão
  para vermos se a nossa pesquisa vale a pena ter um artigo, já que se não
  temos resultados interessantes, ninguém vai lê-lo.
  A discussão, nesse primeiro momento, será se ela suporta ou refuta a hipótese
- apresentada para a pesquisa.Esse primeiro rascunho será feito pelo primeiro
- autor e depois encaminhado para o orientador (que não possui tempo para
- ler algo muito grande e nem de escrever muito).
+ apresentada para a pesquisa.
+ Esse primeiro rascunho será feito pelo primeiro autor e depois encaminhado
+ para o orientador (que não possui tempo para ler algo muito grande e nem
+ de escrever muito).
 \end_layout
 
 \begin_layout Standard
@@ -354,8 +528,18 @@ materiais e métodos
 \begin_inset Quotes erd
 \end_inset
 
-adu, a partir disso escrevemos a nossa revisão bibliográfica, explicando
- as ideias e métodos importantes.
+adu 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+adu?
+\end_layout
+
+\end_inset
+
+, a partir disso escrevemos a nossa revisão bibliográfica, explicando as
+ ideias e métodos importantes.
  Depois, escrever o restante dos tópicos fica muito mais fácil, já que será
  tudo baseado no que já está escrito.
  Vale lembrar que, o primeiro autor é responsável por organizar o artigo,
@@ -368,6 +552,20 @@ adu, a partir disso escrevemos a nossa revisão bibliográfica, explicando
 
 \begin_layout Subsubsection
 Como terminar o corpo do seu artigo:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+excelente seção! Meus parabéns!! Essa é uma parte que vários erram na escrita
+ científica, guardem essas informações em um lugar especial na memória.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -459,22 +657,51 @@ A conclusão de um artigo pode muitas vezes gerar confusões, já que é um
 Agradecimentos:
 \end_layout
 
-\begin_layout Itemize
-A importância dos agradecimentos vem de homenagear os envolvidos que não
- necessariamente seriam de suma importância para a existência do artigo(este
- seria um caso de co-autoria sobre o artigo), mas aqueles que prestaram
- seus devidos esforços intelectuais de maneira a fornecer mais propriedades
- ao mesmo devem e merecem estar aqui.
+\begin_layout Standard
+A importância dos agradecimentos vem de homenagear 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+eu trocaria homenagear por reconhecer
+\end_layout
+
+\end_inset
+
+ os envolvidos que não necessariamente seriam de suma importância para a
+ existência do artigo (este seria um caso de co-autoria sobre o artigo),
+ mas aqueles que prestaram seus devidos esforços intelectuais de maneira
+ a fornecer mais propriedades ao mesmo devem e merecem estar aqui 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+entendi a frase, mas quem sabe valeria reestruturar
+\end_layout
+
+\end_inset
+
+.
  Nos agradecimentos o autor deve deixar claro também aqueles que contribuíram
  financeiramente para o desenvolvimento do artigo como: os investidores,
  bolsas ou equipamentos prestados.
 \end_layout
 
-\begin_layout Itemize
+\begin_layout Standard
 A participação de um indivíduo em um artigo para se tornar relevante o suficient
 e de forma a entrar nos agradecimentos vai depender muito mais do autor
  do que parece, entretanto, isso não impede do autor ser instruído a realizar
- uma série de processos seletivos.
+ uma série de processos seletivos 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+não entendi essa frase anterior
+\end_layout
+
+\end_inset
+
+.
  Além de prestar gratidão, pense na sessão de agradecimentos como um subtópico
  para possíveis indicações de pessoas ou entidades institucionais que o
  ajudaram durante o artigo.
@@ -494,7 +721,19 @@ As citações são um método de trazer credibilidade para o seu trabalho, além
 \end_layout
 
 \begin_layout Subsection
-Razões para citar:
+Razões para citar: 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+eu percebi que diversas subseções tem esse dois-pontos no final.
+ Não só não precisa disso como eu considero errado.
+ Não use ponto final, dois-pontos ou ponto e vírgula no final dos cabeçalhos
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -526,6 +765,16 @@ Informar aos pesquisadores de trabalhos futuros;
 \begin_layout Itemize
 Dar destaque a trabalhos pouco disseminados ou que foram pouco citados;
  
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+desde que a citação caiba no contexto onde é citada!!
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Itemize
@@ -539,6 +788,19 @@ Identificar publicações originais que descrevam conceitos ou termos.
 
 \begin_layout Subsection
 Como citar?
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+excelente seção!
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -615,6 +877,18 @@ Utilizando a NBR 10520:2002 da ABNT (mais comum em trabalhos publicados
 \shape italic
 Nota: Citação com mais de 3 linhas deve ser recuada com fonte menor a esquerda.
  
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+
+\shape italic
+como assim? daria para fazer um exemplo aqui?
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Itemize
@@ -623,6 +897,16 @@ Citação Indireta: As citações diretas devem apresentar aspas se forem com
  fora do texto.
  Já as citações indiretas devem ser acompanhadas no texto.
  (ANGHINONI; CORDOBA, 2022) 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+seria legal com um exemplo também
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Itemize
@@ -649,8 +933,17 @@ Saiba que você pode citar qualquer coisa, desde que seja relevante para
 \end_layout
 
 \begin_layout Standard
-De acordo com a norma ABNT 10520-2022 (está vendo? Isso é uma citação!),
- existem algumas definições:
+De acordo com a norma ABNT 10520-2022 (está vendo? Isso é uma citação! 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+que meta! adorei!
+\end_layout
+
+\end_inset
+
+), existem algumas definições:
 \end_layout
 
 \begin_layout Itemize
@@ -694,6 +987,20 @@ apud, et.al., cf, id., ibid, op.
  cit., passim, loc.
  cit.
  
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+
+\shape italic
+acho que escrever brevemente sobre o et.al.
+ aqui poderia ser legal, é muito usado! O apud é menos usado na minha experiênci
+a mas também importante de se saber.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section
@@ -707,7 +1014,7 @@ LyX:
 \begin_layout Standard
 O LyX é uma plataforma editora de documentos utilizando LaTeX.
  O intuito do LyX é fazer com que o usuário apenas se preocupe com o conteúdo
- do texto, e não com a linguagem, muitad vezes complicada, que um documento
+ do texto, e não com a linguagem, muitas vezes complicada, que um documento
  em LaTeX geralmente demanda.
 \end_layout
 
@@ -738,24 +1045,48 @@ formatação
 \end_inset
 
 .
- Lá é possível encontrar o espaço protegido, espaço entre-palavras, espaço
+ Lá é possível encontrar o espaço protegido, espaço entre palavras, espaço
  fino, espaço horizontal e espaço vertical.
- Dentre esses o mais interessante é o espaço protegido, com essa ferramenta
- é possível fazer com que duas palavras diferentes sejam exibidas na mesma
- linha mesmo que seja necessária uma quebra de linha, ou seja, ao inserir
- um espaço protegido entre 2 palavras obrigamos o LyX a não exibi-las de
- modo separado.
+ Dentre esses o mais interessante 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+mais interessante para quem? Sugiro não fazer esse tipo de comentário pessoal
+ em um texto científico.
+ Você pode substituir por mais usado por exemplo (mas daí seria bom saber
+ se realmente é de fato o mais usado...
+ responder essa pergunta não é tão simples assim!)
+\end_layout
+
+\end_inset
+
+ é o espaço protegido, com essa ferramenta é possível fazer com que duas
+ palavras diferentes sejam exibidas na mesma linha mesmo que seja necessária
+ uma quebra de linha, ou seja, ao inserir um espaço protegido entre 2 palavras
+ obrigamos o LyX a não exibi-las de modo separado.
  Isso pode ser feito simplesmente colocando o seu cursor onde você deseja
  adicionar o espaço e seguir o caminho citado anteriormente clicando no
  final em espaço protegido.
 \end_layout
 
 \begin_layout Standard
-Equações:
+Equações: 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+essa seção tem muitos bullets! Seria melhor deixar em parágrafos e transformar
+ essa linha aqui em um cabeçalho
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Itemize
-Bom, sobre a parte das equações é necessario acessar a parte de inserir,
+Bom, sobre a parte das equações é necessário acessar a parte de inserir,
  localizada no canto superior esquerdo do lyx e selecionar a opção matemática,
  assim, podendo ter acesso a muitas opções, tais como: formula inline, formula
  displayed, environment eqnarray, environment AMS align, environment AMS
@@ -765,7 +1096,7 @@ Bom, sobre a parte das equações é necessario acessar a parte de inserir,
 \end_layout
 
 \begin_layout Itemize
-Após selecionar a opção de fôrmula em alguma das já citadas anteriormente,
+Após selecionar a opção de formula em alguma das já citadas anteriormente,
  será possivel a adição de itens matemáticos para assim satisfazer a montagem
  das equações.
  Portanto, seguimos com um exemplo de formula inline, onde após selecionado
@@ -775,17 +1106,27 @@ Após selecionar a opção de fôrmula em alguma das já citadas anteriormente,
 \end_layout
 
 \begin_layout Itemize
-Desse modo sendo possivel fazer contas, equações, adicionar simbolos, numeros
+Desse modo sendo possível fazer contas, equações, adicionar simbolos, numeros
  e letras entre outras como a seguir: 
 \begin_inset Formula $\sum\int\int\frac{34}{66}\boxdot\supsetneq\female_{p}+\sqrt{\int g(x^{2})}$
 \end_inset
 
 .
  
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+não acho que essa parte está clara para um iniciante
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Itemize
-Nessa perspectiva, sendo muito util para diversas áreas da ciência e da
+Nessa perspectiva, sendo muito útil para diversas áreas da ciência e da
  matemática, além de ser esteticamente 
 \begin_inset Quotes eld
 \end_inset
@@ -796,6 +1137,16 @@ lindo
 
 .
  
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+S2
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Itemize
@@ -810,6 +1161,16 @@ Além disso, cada um dos símbolos e das equações podem ser escritos com o
  ou mesmo usando o modo matemática, o qual pode ser ativado com o comando
  Ctrl + M e fica destacado na cor azul.
  
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+não sei se eu introduziria o Ctrl + L neste local
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Itemize
@@ -817,7 +1178,19 @@ Também vale notar que os comandos feitos no espaço de código precisam estar
  entre cifrões para mostrar ao LyX que o comando é uma função matemática,
  o que já acontece automaticamente no modo matemática.
  Sendo assim, os símbolos utilizados no último exemplo podem ser escritos
- também da seguinte maneira:
+ também da seguinte maneira: 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+então, no LyX eu acho que é bem melhor deixar o Ctrl + L apenas para coisas
+ que o LyX não sabe tratar.
+ Como ele sabe tratar equações eu não usaria o Ctrl + L para isso.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -1179,7 +1552,18 @@ imagens/imagem_1.png
 \end_inset
 
 , por exemplo) dentro do documento seja sempre o mesmo, previnindo eventuais
- conflitos;
+ conflitos; 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+eu entendi, mas novamente não sei se estaria claro para quem não participou
+ da aula
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Itemize
@@ -1244,12 +1628,33 @@ Para criar uma tabela e legendá-la no seu documento é necessário seguir
 \begin_layout Standard
 1)Insira um float de tabela.
  (16º obejto da segunda linha, da esquerda para a direta, na área superior
- da página)
+ da página) 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+seria mais interessante colocar um print do icone aqui :)
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
 2)Adicione a sua tabela e a selecione para legendá-la.
  (No 19º objeto da primeira linha você consegue adicionar a sua tabela.)
+ 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+seria mais interessante colocar um print do icone aqui :)
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -1263,6 +1668,19 @@ Inserir etiqueta
 
  (17º objeto da segunda linha) e escolha o nome que você quer dar para a
  tabela.
+ 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+seria mais interessante colocar um print do icone aqui :) esse comentário
+ vale para os demais momentos abaixo onde aparece um texto similar indicando
+ a posição do objeto no menu
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \end_deeper
@@ -1301,6 +1719,19 @@ ok
 \end_inset
 
  na parte inferior.
+ 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+veja que para isso funcionar é necessário acrescentar os rótulos (labels)
+ nos locais que você irá referenciar.
+ Faltou essa informação aqui.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -1308,7 +1739,17 @@ Módulos:
 \end_layout
 
 \begin_layout Itemize
-Texto
+Texto 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+?
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -1353,6 +1794,18 @@ Classes de Documento
  Dentre as Classes de Documento pode-se encontrar a configuração para artigos,
  cartas, livros ou mesmo slides que seguem normas técnicas exigidas para
  determinadas revistas e jornais, sociedades e associações, etc.
+ 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+entendi a ideia.
+ Quem sabe valeria guiar melhor o leitor aqui usando imagens.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -1362,7 +1815,17 @@ Fórmulas químicas:
 \begin_layout Itemize
 Quanto à escrita de fórmulas químicas podemos utilizar um pacote para o
  LyX chamado mhchem que fará com que sejam exibidas de uma forma visualmente
- mais atraente.
+ mais atraente 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+fora que também facilita a escrita de equações e fórmulas químicas
+\end_layout
+
+\end_inset
+
+.
  Para utilizar esse pacote é preciso primeiramente ter baixado em seu computador
  o arquivo 
 \begin_inset Quotes eld
@@ -1372,15 +1835,26 @@ mchem.sty
 \begin_inset Quotes erd
 \end_inset
 
+ 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+tem que estar instalado na sua distribuição do latex para funcionar, não
+ basta apenas baixar
+\end_layout
+
+\end_inset
+
 , depois dentro do LyX deve-se seguir o seguinte caminho: “document”, “settings”
  , “LaTeX Preamble”.
  Então, dentro do LaTeX Preamble (ambiente em que podem ser criadas funções,
  ajustadas configurações e carregados pacotes de definições não nativos
  do LaTeX) é preciso digitar o comando ''
 \backslash
-usepackage [version=4] {mchem}”.
+usepackage[version=4]{mchem}”.
  Agora para escrever as equações será preciso digitá-las como código de
- LaTeX(já que se trata de um pacote externo) o que pode ser feito apertando
+ LaTeX (já que se trata de um pacote externo) o que pode ser feito apertando
  o botão TEX encontrado na parte direita da barra superior que aparece no
  LyX.
  Então, para escrever a fórmula do dióxido de silício, por exemplo, deve-se
@@ -1862,7 +2336,24 @@ Ferramentas de pesquisa
 Após tudo isso que já foi explicado, deve ter ficado claro o quão importante
  é o conhecimento sobre a escrita científica.
  Mas, devemos nos atentar também para a relevância que tem o conhecimento
- sobre como realizar pesquisas desses escritos de carácter científico.
+ sobre como realizar pesquisas desses escritos 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+\begin_inset Quotes eld
+\end_inset
+
+escritos
+\begin_inset Quotes erd
+\end_inset
+
+ ficou estranho aqui
+\end_layout
+
+\end_inset
+
+ de carácter científico.
  Esse ato de pesquisar e realizar buscas deve ser feito com muita cautela,
  a fim de se obter o melhor (mais adequado) resultado possível, ou seja,
  encontrar o que realmente corresponde ao que você procura.
@@ -1896,7 +2387,7 @@ s corretos e adequados à situação, podemos encontrar o que desejamos.
 placement H
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Graphics
@@ -1921,6 +2412,18 @@ name "Figura 1"
 
 Tela inicial do Google Scholar, com destaques em vermelho de acordo com
  que foi explicado.
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+sugiro usar rótulos mais descritivos para as figuras, afinal essa figura
+ pode deixar de ser a figura 1 no futuro, mas jamais deixará de ser a figura_goo
+gle_scholar, por exemplo.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -1988,7 +2491,7 @@ noprefix "false"
 placement H
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Graphics
@@ -2076,10 +2579,20 @@ Desse modo, com tudo isso, podemos ir afunilando nossa pesquisa e poderemos
 
 \begin_layout Standard
 Além disso, outro mecanismo, o qual está relacionado com o aplicativo Zotero,
- comentado anteriormente, que podemos utilizar no Google Scholar é um que
- nos permite selecionar vários artigos de uma só vez e lançarmos, automaticament
-e, nessa mesma plataforma, os dados sobre ele, para salvar como nosso repertório
- em nossa biblioteca.
+ comentado anteriormente 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+foi comentado anteriormente? Onde?
+\end_layout
+
+\end_inset
+
+, que podemos utilizar no Google Scholar é um que nos permite selecionar
+ vários artigos de uma só vez e lançarmos, automaticamente, nessa mesma
+ plataforma, os dados sobre ele, para salvar como nosso repertório em nossa
+ biblioteca.
 \end_layout
 
 \begin_layout Standard
@@ -2203,7 +2716,17 @@ Deselect All
 \begin_inset Quotes erd
 \end_inset
 
-);
+); 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+gostei desse passo-a-passo
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -2260,8 +2783,17 @@ Web of Science - Coleção Principal (Clarivate Analytics)
  Cabe relembrar que devemos estar conectados a uma rede que nos permite
  ter acesso a essa plataforma, como a conexão da nossa instituição de ensino.
  Nessa base de dados, não podemos selecionar vários artigos de uma vez só,
- mas individualmente a técnica que seleciona como repertório funciona e
- também têm diversas opções de ferramentas de pesquisa avançada.
+ mas individualmente a técnica que seleciona como repertório funciona 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+não entendi
+\end_layout
+
+\end_inset
+
+ e também têm diversas opções de ferramentas de pesquisa avançada.
  Uma observação que vale ser feita é que essa técnica de selecionar vários
  de uma só vez é recomendada somente caso queiramos ler e nos atualizar
  sobre o que vem acontecendo nos últimos tempos na área de interesse, já
